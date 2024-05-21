@@ -26,3 +26,9 @@ gc! -> git commit --amend
 gcm -> git checkout master
 gco -> git checkout
 ```
+
+asjdf;lajsfaiosdf,xjaosfjxaposfx
+
+sdfjasuiodfahsoidfhaisofdasuhfxas
+
+asdfiuahdsfiaxhoxfha
