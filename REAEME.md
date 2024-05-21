@@ -16,3 +16,13 @@ git config --global user.email <email>
 ggg
 
 hhh
+
+ZSH 中 git 操作简写:
+
+```zsh
+ga -> git add
+gc -> git commit
+gc! -> git commit --amend
+gcm -> git checkout master
+gco -> git checkout
+```
