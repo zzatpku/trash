@@ -29,6 +29,8 @@ gcm -> git checkout master
 gco -> git checkout
 ```
 
+asloifsaojfhifnpewkrgh8
+
 git 新建分支：`git checkout -b <branch_name>`
 
 切换分支：`git checkout <branch_name>`
