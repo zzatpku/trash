@@ -32,3 +32,5 @@ gco -> git checkout
 git 新建分支：`git checkout -b <branch_name>`
 
 切换分支：`git checkout <branch_name>`
+
+合并分支：首先 `git checkout <br1>`，然后 `git merge <br2>`，这会在 br1 上新增一个 commit，不会修改 br2
