@@ -26,3 +26,7 @@ gc! -> git commit --amend
 gcm -> git checkout master
 gco -> git checkout
 ```
+
+git 新建分支：`git checkout -b <branch_name>`
+
+切换分支：`git checkout <branch_name>`
