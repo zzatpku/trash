@@ -40,3 +40,9 @@ asjdf;lajsfaiosdf,xjaosfjxaposfx
 sdfjasuiodfahsoidfhaisofdasuhfxas
 
 asdfiuahdsfiaxhoxfha
+
+添加远程仓库：`git remote add <nickname> <remote_url>`
+
+将本地分支的修改同步到远程仓库的对应分支：`git push <nickname> <branch_name>`
+
+Github 添加 SSH 公钥：https://github.com/settings/keys
